@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ad-it-h
+- 👋 Hi, I’m @adith_p
 - 👀 I’m interested in c language 
 - 🌱 I’m currently learning c language 
 - 📫 How to reach me?? nah!   
